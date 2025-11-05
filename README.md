@@ -1,4 +1,4 @@
-<!-- ============================== -->
+[<!-- ============================== -->
 <!-- 💫 Fady Nader | Front-End Developer -->
 <!-- ============================== -->
 
@@ -74,3 +74,4 @@ I can’t leave a console warning unsolved 😄
 [![](https://visitcount.itsvg.in/api?id=FadyNader0&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly built by Fady Nader | Generated with ❤️ and GPRM -->
+](https://github.com/FadyNader0)
