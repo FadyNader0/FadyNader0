@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fady Nader</h1>
-<h3 align="center">Front-End Developer from Egypt 🇪🇬</h3>
+<h3 align="center">Front-End Developer from Egypt</h3>
 
 <p align="center">
   <img src="https://res.cloudinary.com/dephzcrkl/image/upload/v1762313759/rgkgvt30prybdhepijni.jpg" alt="Fady Nader" width="250" />
@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png)" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 
 </div>
